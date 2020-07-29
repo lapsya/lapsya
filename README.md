@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 
 -->
 
-### Master's thesis project
+### [My CV TeX project](https://github.com/lapsya/mcdowell-cv)
+
+### Master's thesis project:
 [Universal black-box adversarial attacks via cellular automata generated patterns](https://github.com/lapsya/cellular_automata_attacks)
 
-### SkolTech course projects
+### SkolTech course projects:
 
 | Project | Contribution |
 | ------- | --------------|
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 * [Maxvol for Machine Learning](https://github.com/vicontek/maxvol): performed experiments with [maxvol](https://arxiv.org/abs/1502.07838) feature selection on ARCENE dataset
 -->
 
-### Just for fun
+### Just for fun:
 
 * [100 days of code](https://github.com/lapsya/100daysofcode) challenge: small scripts and projects on vaious topics to improve programming skills
 * [GitHub Graduation 2020](https://github.com/lapsya/graduation) entry
